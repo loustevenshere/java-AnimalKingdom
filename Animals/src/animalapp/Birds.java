@@ -19,7 +19,7 @@ public class Birds extends AbstractAnimal
 	@Override
 	public String breath()
 	{
-		return "quickly";
+		return "lungs";
 	}
 
 	@Override
